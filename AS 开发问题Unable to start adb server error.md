@@ -1,7 +1,6 @@
 ---
 title: Android开发问题-Unable to start adb server
-tags:
-  - Android开发
+tags: Android开发
 keywords: Android开发
 categories: 理论
 ---
