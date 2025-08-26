@@ -1,6 +1,6 @@
 ---
 title: Altium Designer 的entry sheet ，offsheet和port作用（转载）
-date: 2029-12-26 20:25:59
+date: 2019-12-26 20:25:59
 tags:
   - Altium Designer
 keywords: Altium Designer 的entry sheet ，offsheet和port作用
