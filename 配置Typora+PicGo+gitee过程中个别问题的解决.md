@@ -1,6 +1,6 @@
 ---
 title: 配置Typora+PicGo+gitee过程中个别问题的解决
-date: 2029-11-25 02:25:47
+date: 2021-11-25 02:25:47
 tags:
   - PicGo
   - Typora
