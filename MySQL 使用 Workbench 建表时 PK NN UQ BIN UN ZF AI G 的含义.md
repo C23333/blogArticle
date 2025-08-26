@@ -1,10 +1,10 @@
-```
+---
 title: MySQL 使用 Workbench 建表时 PK NN UQ BIN UN ZF AI G 的含义
 date: 2020-01-22 19:57:21
 tags: MySQL
 keywords: MySQL
 categories: 理论
-```
+---
 
 
 

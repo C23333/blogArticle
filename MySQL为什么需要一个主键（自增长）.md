@@ -1,10 +1,10 @@
-```
+---
 title: MySQL为什么需要一个主键（自增长）
 date: 2020-01-22 22:21:22
 tags: MySQL
 keywords: MySQL
 categories: 理论
-```
+---
 
 
 

@@ -1,4 +1,4 @@
-```
+---
 title: PHP小知识点
 date: 2024-05-07 02:16:21
 tags: 
@@ -6,7 +6,7 @@ tags:
   - 刨根问底
 keywords: PHP
 categories: 实操
-```
+---
 
 
 

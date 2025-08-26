@@ -1,4 +1,4 @@
-```
+---
 title: PHP代码咋执行的？
 date: 2024-05-07 04:51:06
 tags: 
@@ -9,7 +9,7 @@ keywords:
   - C++ main
   - ELF
 categories: 实操
-```
+---
 
 
 

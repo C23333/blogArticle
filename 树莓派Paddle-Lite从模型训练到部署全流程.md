@@ -1,4 +1,4 @@
-```
+---
 title: 树莓派Paddle-Lite从模型训练到部署全流程
 date: 2021-05-20 23:21:42
 tags:
@@ -7,7 +7,7 @@ tags:
   - Paddle-Lite
 keywords: Paddle-Lite
 categories: 实操
-```
+---
 
 
 

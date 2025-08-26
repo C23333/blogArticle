@@ -1,4 +1,4 @@
-```
+---
 title: 玩客云（armv7hf）源码编译安装OpenCV
 date: 2021-05-25 09:56:24
 tags:
@@ -7,7 +7,7 @@ tags:
   - OpenCV
 keywords: 玩客云
 categories: 实操
-```
+---
 
 
 

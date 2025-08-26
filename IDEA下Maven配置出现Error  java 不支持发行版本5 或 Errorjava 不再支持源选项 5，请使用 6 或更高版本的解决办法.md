@@ -1,4 +1,4 @@
-```
+---
 title: XHProf介绍
 date: 2022-05-03 13:24:20
 tags:
@@ -6,7 +6,7 @@ tags:
   - IDEA
 keywords: IDEA
 categories: 实操
-```
+---
 
 
 

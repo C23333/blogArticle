@@ -1,11 +1,11 @@
-```
+---
 title: Java小记 —— 浮点数（double、float）的格式化问题及处理
 date: 2022-05-05 09:21:42
 tags:
   - Java
 keywords: Java
 categories: 实操
-```
+---
 
 
 

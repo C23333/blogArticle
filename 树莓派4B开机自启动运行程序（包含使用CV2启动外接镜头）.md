@@ -1,4 +1,4 @@
-```
+---
 title: 树莓派4B开机自启动运行程序（包含使用CV2启动外接镜头）
 date: 2021-05-21 06:21:55
 tags:
@@ -7,7 +7,7 @@ tags:
   - OpenCV
 keywords: 树莓派
 categories: 实操
-```
+---
 
 
 

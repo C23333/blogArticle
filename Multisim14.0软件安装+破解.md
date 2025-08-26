@@ -1,10 +1,10 @@
-```
+---
 title: Multisim14.0软件安装+破解
 date: 2020-10-01 08:01:30
 tags: Multisim
 keywords: Multisim
 categories: 实操
-```
+---
 
 
 

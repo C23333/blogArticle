@@ -1,4 +1,4 @@
-```
+---
 title: g++编译时如何链接opencv库
 date: 2021-05-18 03:25:09
 tags:
@@ -6,7 +6,7 @@ tags:
   - OpenCV
 keywords: 编译链接OpenCV
 categories: 实操
-```
+---
 
 
 

@@ -1,4 +1,4 @@
-```
+---
 title: MySQL字符串拆分，实现split（explode）功能
 date: 2022-12-02 21:07:29
 tags: 
@@ -6,7 +6,7 @@ tags:
   - 字符串分割
 keywords: MySQL
 categories: 实操
-```
+---
 
 
 
