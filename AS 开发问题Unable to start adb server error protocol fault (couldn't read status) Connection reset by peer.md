@@ -1,6 +1,5 @@
 ---
-title: Android开发问题-Unable to start adb server: error: protocol fault (couldn't read status): Connection reset by peer
-date: 2020-04-05 05:15:25
+title: Android开发问题-Unable to start adb server
 tags:
   - Android开发
 keywords: Android开发
