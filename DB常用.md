@@ -1,3 +1,13 @@
+---
+title: DB常用
+date: 2025-06-07 21:06:25
+tags: Oracle
+keywords: Oracle
+categories: 实操
+---
+
+
+
 # DB常用
 
 
@@ -175,19 +185,6 @@ AUTOEXTEND ON NEXT 1G MAXSIZE 31G;
   ```
 
 
-
-
-## 服务器信息
-
-* SYCRM： 
-    * 10.1.90.73
-        端口：22
-        账号：root
-        密码：fa%#fdjasE5!
-    * 同步MM生产数据到这里，事业部查数据走这里，分散MM生产库压力
-* PDA：
-    * ![image-20250314111405884](https://lalalademaxiya01.oss-cn-beijing.aliyuncs.com/img/202507140928294.png)
-    * 业务量不高、金币联盟积分等数据跑这里
 
 
 
